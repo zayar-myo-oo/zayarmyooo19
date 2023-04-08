@@ -8,7 +8,7 @@
 
 ###
 
-<img align="right" height="265" src="https://media.tenor.com/ZOP98DIBuq8AAAAM/dog-typing.gif"  />
+<img align="right" height="264" src="https://media.tenor.com/ZOP98DIBuq8AAAAM/dog-typing.gif"  />
 
 ###
 
@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">🔭I’m currently working on DIR-ACE Technology Ltd...<br><br> 📚 I’m currently learning Laravel , Vue , Angular<br><br>⚡ Fun fact It's not a bug . It's an undocumented feature</p>
+<p align="left">🔭I’m currently working on DIR-ACE Technology Ltd...<br><br> 📚 I’m currently learning Laraval , Vue , Angular<br><br>⚡ Fun fact It's not a bug . It's an undocumented feature</p>
 
 ###
 
@@ -75,5 +75,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=zayarmyooo19&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=zayarmyooo19&locale=en&mode=weekly&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
+
+###
+
+<img src="https://raw.githubusercontent.com/zayarmyooo19/zayarmyooo19/blob/output/snake.svg" alt="Snake animation" />
 
 ###
