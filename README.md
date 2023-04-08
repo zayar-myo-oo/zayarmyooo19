@@ -11,7 +11,7 @@
 <img align="right" height="265" src="https://media.tenor.com/ZOP98DIBuq8AAAAM/dog-typing.gif"  />
 
 ###
-<br/>
+
 <h1 align="left">👩‍💻  About Me</h1>
 
 ###
