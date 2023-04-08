@@ -11,7 +11,7 @@
 <img align="right" height="265" src="https://media.tenor.com/ZOP98DIBuq8AAAAM/dog-typing.gif"  />
 
 ###
-
+<br/>
 <h1 align="left">👩‍💻  About Me</h1>
 
 ###
@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">🔭I’m currently working on DIR-ACE Technology Ltd...<br><br> 📚 I’m currently learning Laraval , Vue , Angular<br><br>⚡ Fun fact It's not a bug . It's an undocumented feature</p>
+<p align="left">🔭I’m currently working on DIR-ACE Technology Ltd...<br><br> 📚 I’m currently learning Laravel , Vue , Angular<br><br>⚡ Fun fact It's not a bug . It's an undocumented feature</p>
 
 ###
 
