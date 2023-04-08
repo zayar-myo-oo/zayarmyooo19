@@ -8,15 +8,19 @@
 
 ###
 
-<img align="right" height="300" src="https://media.tenor.com/ZOP98DIBuq8AAAAM/dog-typing.gif"  />
+<img align="right" height="265" src="https://media.tenor.com/ZOP98DIBuq8AAAAM/dog-typing.gif"  />
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h1 align="left">👩‍💻  About Me</h1>
 
 ###
 
-<p align="left">A passionate full stack developer from Myanmar<br><br> 🔭I’m currently working on DIR-ACE Technology Ltd...<br><br> 📚 I’m currently learning Laraval , Vue , Angular<br><br>⚡ Fun fact It's not a bug . It's an undocumented feature</p>
+<h3 align="left">A passionate full stack developer from Myanmar</h3>
+
+###
+
+<p align="left">🔭I’m currently working on DIR-ACE Technology Ltd...<br><br> 📚 I’m currently learning Laraval , Vue , Angular<br><br>⚡ Fun fact It's not a bug . It's an undocumented feature</p>
 
 ###
 
