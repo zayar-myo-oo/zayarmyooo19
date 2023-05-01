@@ -24,6 +24,8 @@
 
 <p align="left">if you want, you can check my portfolio as well 
  <a href="https://zayarmyooo.netlify.app/" target="_blank">
+   myportfolio link
+  </a>
 </p>
 
 ###
