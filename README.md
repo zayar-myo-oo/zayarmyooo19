@@ -23,8 +23,8 @@
 <p align="left">🔭I’m currently working on DIR-ACE Technology Ltd...<br><br> 📚 I’m currently learning Laravel , Vue , Angular<br><br>⚡ Fun fact It's not a bug . It's an undocumented feature</p>
 
 <p align="left">if you want, you can check my portfolio as well 
-<!--   https://zayarmyooo.netlify.app/ -->  
- <a href="https://docs.google.com/presentation/d/1xSCex35OS1ZAV2-rFBa_MopFP1DGhc6P/edit" target="_blank">
+    
+ <a href="https://zayarmyooo.netlify.app/" target="_blank">
    myportfolio link
   </a>
 </p>
