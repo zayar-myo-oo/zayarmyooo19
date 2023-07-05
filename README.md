@@ -1,19 +1,6 @@
 <h1 align="center">Hi 👋, I'm ZayarMyoOo</h1>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=zayarmyooo19.zayarmyooo19&"  />
-</div>
-
-###
-
 <img align="right" height="265" src="https://media.tenor.com/ZOP98DIBuq8AAAAM/dog-typing.gif"  />
-
-###
-
 <h1 align="left">👩‍💻  About Me</h1>
-
 ###
 
 <h3 align="left">A passionate full stack developer from Myanmar</h3>
