@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">🔭I’m currently working on DIR-ACE Technology Ltd...<br><br> 📚 I’m currently learning Laravel , Vue , Angular<br><br>⚡ Fun fact It's not a bug . It's an undocumented feature</p>
+<p align="left">I’m currently working on DIR-ACE Technology Ltd...<br><br> I’m currently learning React<br></p>
 
 <p align="left">if you want, you can check my portfolio as well 
     
