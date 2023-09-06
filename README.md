@@ -18,11 +18,9 @@
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/zayar-myo-oo-93ab42243/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.facebook.com/zayarmyo.oo.378" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
-  </a>
+  <img src="https://streak-stats.demolab.com?user=zayarmyooo19&theme=radical" width="49%" alt="streaks graph" />
+  <img src="https://github-readme-stats-godkingjay.vercel.app/api?username=zayarmyooo19&theme=radical&show_icons=true&count_private=true" width="49%" alt="stats 
+      graph" />
+    
 </div>
 
