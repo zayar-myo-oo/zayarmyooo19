@@ -4,21 +4,24 @@
 <h3 align="left">A passionate mid-level web developer from Myanmar</h3>
 <p align="left">I’m currently working on PI EIS Insurance Technology Inc....<br><br> I’m currently learning React<br></p>
 
-<p align="left">if you want, you can check my portfolio as well 
+<p align="left"> If you want, you can check my portfolio as well 
     
  <a href="https://zayarmyooo.netlify.app/" target="_blank">
-   myportfolio link
+   my portfolio link
   </a>
 </p>
 
 ###
 
 ###
+<br>
 
-<div align="left">
+<span align="left">
   <img src="https://streak-stats.demolab.com?user=zayarmyooo19&theme=radical" width="49%" alt="streaks graph" />
+</span>
+&nbsp;
+<span align="right">
   <img src="https://github-readme-stats-godkingjay.vercel.app/api?username=zayarmyooo19&theme=radical&show_icons=true&count_private=true" width="49%" alt="stats 
       graph" />
-    
-</div>
+</span
 
