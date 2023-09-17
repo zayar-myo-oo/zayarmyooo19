@@ -1,3 +1,4 @@
+<div>
 <h1 align="center">Hi👋,I'm Zayar</h1>
 <img align="right" height="265" src="https://media.tenor.com/ZOP98DIBuq8AAAAM/dog-typing.gif"  />
 <h1 align="left">👩‍💻  About Me</h1>
@@ -10,18 +11,17 @@
    my portfolio link
   </a>
 </p>
-
+</div>
 ###
 
 ###
-<br>
-
+<div>
 <span align="left">
   <img src="https://streak-stats.demolab.com?user=zayarmyooo19&theme=radical" width="49%" alt="streaks graph" />
 </span>
-&nbsp;
 <span align="right">
   <img src="https://github-readme-stats-godkingjay.vercel.app/api?username=zayarmyooo19&theme=radical&show_icons=true&count_private=true" width="49%" alt="stats 
       graph" />
-</span
+</span>
+</div>
 
