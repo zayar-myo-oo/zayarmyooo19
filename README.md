@@ -16,14 +16,17 @@
 
 ###
 <div>
-
- <span align="left">
-  <img height="200px"  width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zayarmyooo19&layout=compact&langs_count=10&hide=asp,php&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+     <span align="left">
+  <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zayarmyooo19&layout=compact&langs_count=10&hide=asp,php&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
          </span>
     <span align="right">
-  <img height="200px"  width="49%" src="https://github-readme-stats.vercel.app/api?username=zayarmyooo19&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img height="200px" src="https://github-readme-stats.vercel.app/api?username=zayarmyooo19&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
         </span>
-     <img align="left" height="200px" src="https://streak-stats.demolab.com?user=zayarmyooo19&theme=dark" alt="streaks graph" />
+ <span align="left">
+<img height="200px" src="https://streak-stats.demolab.com?user=zayarmyooo19&theme=dark" alt="streaks graph" />
+     </span>   
+
+     
 </div>
 
 
