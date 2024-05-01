@@ -5,7 +5,7 @@
 <h3 align="left">A passionate mid-level web developer from Myanmar</h3>
 <p align="left">I’m currently working on PI EIS Insurance Technology Inc....<br><br> I’m currently learning React<br></p>
 
-<p align="left"> If you want, you can check my portfolio as well 
+<p align="left"> This is my porfolilo link
     
  <a href="https://zayarmyooo.netlify.app/" target="_blank">
    my portfolio link
